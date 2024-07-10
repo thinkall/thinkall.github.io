@@ -5,11 +5,11 @@ permalink: /
 subtitle: Senior Software Engineer at Microsoft.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Beijing, China</p
+    <p>Beijing, China</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
