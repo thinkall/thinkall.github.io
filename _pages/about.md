@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a senior software engineer at Microsoft, specializing in data science and AI/ML. My work involves developing and deploying automated machine learning systems, distributed deep learning/machine learning frameworks, and industry-specific AI solutions. I earned dual PhD degrees from Beijing Normal University and University Toulouse III in 2017, with my research focused on collective intelligence.
+I am a senior software engineer at Microsoft, specializing in data science and AI/ML. My work involves developing and deploying automated machine learning systems, distributed deep learning/machine learning frameworks, and industry-specific AI solutions. I completed dual PhD degrees at Beijing Normal University and University Toulouse III in 2017, with my research focused on collective intelligence.
